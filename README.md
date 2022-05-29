@@ -1,2 +1,2 @@
-# bloody-blockchain
-bloody blockchain project
+# bloody pro-chain
+bloody pro-chain project
