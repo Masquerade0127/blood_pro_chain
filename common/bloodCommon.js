@@ -1,6 +1,6 @@
 'use strict';
 
-class BloodCommon {
+class BloodProChain {
     bloodValidation(bloodObject){
         if(!bloodObject){
             throw new Error('blood object null');
@@ -12,4 +12,4 @@ class BloodCommon {
     }
 }
 
-module.exports = BloodCommon;
+module.exports = BloodProChain;

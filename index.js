@@ -1,5 +1,5 @@
 'use strict';
 
-const Blood = require('./lib/BloodContract');
-module.exports.Blood = Blood;
-module.exports.contracts = [Blood];
+const BloodProChainContract = require('./lib/BloodContract');
+module.exports.BloodProChainContract = BloodProChainContract;
+module.exports.contracts = [BloodProChainContract];
